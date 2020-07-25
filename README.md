@@ -30,5 +30,5 @@
 
 ### My Careers 🌱
 
-- [(주)헤렌](https://www.herrencorp.com) Backend Developer/DevOps Engineer (2019.08.12 ~ 재직 중)
+- [(주)헤렌](https://www.herrencorp.com) Backend Developer/DevOps Engineer (2019.08.12 ~ 재직중)
 
