@@ -12,7 +12,7 @@
    - 오브젝트 - 코드로 이해하는 객체지향 설계 (조영호 저) <br/>
    - Clean Code : 애자일 소프트웨어 장인 정신 (로버트 마틴.C 저) <br/>
    - 테스트 주도 개발 (켄트백 저) <br/>
-   - Blogging (Posting, SEO, Readability etc) <br/>
+   - 토비의 스프링 3.1 (이일민 저) <br/>
    - React Native 
 </details>
 
