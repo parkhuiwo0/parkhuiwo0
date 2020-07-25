@@ -15,7 +15,7 @@
 
 <details>
  <summary><strong> Technology stack (Click) </strong></summary>
-   - Java 8 <br/>
+   - Language : Java 8 <br/>
    - Spring Framework (SpringBoot 2.x, Spring Webflux) <br/>
    - Object Relationship Mapping (Spring Data JPA, Hibernate, QueryDSL) <br/>
    - Infrastructure (AWS, Networking) <br/>
