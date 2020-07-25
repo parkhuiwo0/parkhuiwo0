@@ -1,6 +1,6 @@
 ![email](https://img.shields.io/badge/Email-parkhuiwo0@gmail.com-red.svg)
 ![기술블로그](https://img.shields.io/badge/Blog-https://parkhuiwo0.github.io-brightgreen.svg)
-![FaceBook](https://imag.shields.io/badge/Facebook-https://fb.com/parkhuiwo0-blue.svg)
+![FaceBook](https://img.shields.io/badge/Facebook-https://fb.com/parkhuiwo0-blue.svg)
 
 
 
