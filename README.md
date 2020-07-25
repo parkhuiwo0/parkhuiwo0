@@ -7,4 +7,6 @@
 주로 Java와 Spring Framework를 이용하여 애플리케이션을 개발하는 백엔드 개발자입니다. `객체지향 설계`에 대한 관심이 많으며, 유연한 애플리케이션을 만들기 위해 노력합니다.
 
 
+### Career
 
+- Herren Corp. Backend Developer (2019.08.12 ~ 재직 중)
