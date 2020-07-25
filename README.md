@@ -6,18 +6,18 @@
 
 주로 Java와 Spring Framework를 이용하여 애플리케이션을 개발하는 백엔드 개발자입니다. `객체지향 설계`에 대한 관심이 많으며, 유연한 애플리케이션을 만들기 위해 노력합니다.
 
-</p>
-
-### My Careers 🌱
-
-- [(주)헤렌](https://www.herrencorp.com) Backend Developer/DevOps Engineer (2019.08.12 ~ 재직 중)
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-   - Clojure <br/>
+ <summary><strong>관심 있는 도서 리스트 </strong></summary>
+   - [오브젝트 - 코드로 이해하는 객체지향 설계 (조영호님 저)](http://www.yes24.com/Product/Goods/74219491?OzSrank=1) <br/>
    - Working with Google cloud <br/>
    - Building something awesome <br/>
    - Blogging (Posting, SEO, Readability etc) <br/>
    - React Native 
 </details>
+
+
+### My Careers 🌱
+
+- [(주)헤렌](https://www.herrencorp.com) Backend Developer/DevOps Engineer (2019.08.12 ~ 재직 중)
 
