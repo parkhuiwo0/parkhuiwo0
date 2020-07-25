@@ -1,5 +1,5 @@
-![email](https://img.shields.io/badge/Email-parkhuiwo0@gmail.com-red.svg)
-![기술블로그](https://img.shields.io/badge/Blog-https://parkhuiwo0.github.io-brightgreen.svg)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parkhuiwo0@gmail.com)](mailto:parkhuiwo0@gmail.com)
+[![기술블로그](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parkhuiwo0.github.io/)](https://parkhuiwo0.github.io/)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/parkhuiwo0)](https://fb.com/parkhuiwo0)
 
 ### HUIWOO PARK (1998. 09. 26)
