@@ -7,7 +7,7 @@
 안녕하세요. (주)헤렌에 재직 중인 백엔드 개발자입니다. 주로 Java와 Spring Framework를 이용해 애플리케이션을 개발하고, 객체지향 설계에 대한 관심이 많으며 유연한 소프트웨어를 만들기 위해 노력하고 있습니다.
 
 <details>
- <summary><strong> List of seminar presentations (Click) </strong></summary>
+ <summary><strong> Seminar Presentations (Click) </strong></summary>
    - 헤렌 기술 세미나 - 가용성을 고려한 웹 서비스 AWS 인프라 설계 방법 <br/>
    - 헤렌 기술 세미나 - JPA Hibernate ORM N+1 Problem 해결하기 <br/>
    - 헤렌 기술 세미나 - 유연한 소프트웨어 설계를 위한 객체지향 프로그래밍 <br/>
@@ -20,6 +20,15 @@
    - Object Relationship Mapping (Spring Data JPA, Hibernate, QueryDSL) <br/>
    - Infrastructure (AWS, Networking) <br/>
    - Elastic (ELK Stack) <br/>
+</details>
+
+<details>
+ <summary><strong> Certifications (Click) </strong></summary>
+   - Cisco Certified Network Associate <br/>
+   - Cisco Certified Network Professional (Switched Network) <br/>
+   - Cisco Certified Network Professional (Network Trouble Shotting <br/>
+   - Linux Professional Institute Certification Level 1 <br/>
+   - 정보처리산업기사
 </details>
 
 <details>
