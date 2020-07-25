@@ -4,7 +4,7 @@
 
 ### HUIWOO PARK
 
-안녕하세요, 저는 (주)헤렌에 재직 중인 백엔드 개발자입니다. 주로 Java와 Spring Framework를 이용해 애플리케이션을 개발하고, 객체지향 설계에 대한 관심이 많으며 유연한 소프트웨어를 만들기 위해 노력하고 있습니다.
+안녕하세요. (주)헤렌에 재직 중인 백엔드 개발자입니다. 주로 Java와 Spring Framework를 이용해 애플리케이션을 개발하고, 객체지향 설계에 대한 관심이 많으며 유연한 소프트웨어를 만들기 위해 노력하고 있습니다.
 
 <details>
  <summary><strong> List Of Seminar Presentation (Click) </strong></summary>
