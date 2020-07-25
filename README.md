@@ -6,6 +6,15 @@
 
 주로 Java와 Spring Framework를 이용하여 애플리케이션을 개발하는 백엔드 개발자입니다. `객체지향 설계`에 대한 관심이 많으며, 유연한 애플리케이션을 만들기 위해 노력합니다.
 
+<details>
+ <summary><strong> Technology stack </strong></summary>
+   - Java 8 <br/>
+   - Spring Framework (SpringBoot 2.x, Spring Webflux) <br/>
+   - Object Relationship Mapping (Spring Data JPA, Hibernate, QueryDSL) <br/>
+   - Infrastructure (AWS, Networking) <br/>
+   - Elastic (ELK Stack) <br/>
+   
+</details>
 
 <details>
  <summary><strong> List of books read </strong></summary>
@@ -13,7 +22,8 @@
    - Clean Code : 애자일 소프트웨어 장인 정신 (로버트 마틴.C 저) <br/>
    - 테스트 주도 개발 (켄트백 저) <br/>
    - 토비의 스프링 3.1 (이일민 저) <br/>
-   - React Native 
+   - 자바 ORM 표준 JPA 프로그래밍 (김영한 저) <br/>
+   - Effective Java 3판 (조슈아 블로크 저) <br/>
 </details>
 
 
