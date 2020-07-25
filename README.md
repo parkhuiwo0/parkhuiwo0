@@ -8,10 +8,10 @@
 
 
 <details>
- <summary><strong>관심 있는 도서 리스트 </strong></summary>
-   - [오브젝트 - 코드로 이해하는 객체지향 설계 (조영호님 저)](http://www.yes24.com/Product/Goods/74219491?OzSrank=1) <br/>
-   - Working with Google cloud <br/>
-   - Building something awesome <br/>
+ <summary><strong> List of books read </strong></summary>
+   - 오브젝트 - 코드로 이해하는 객체지향 설계 (조영호 저) <br/>
+   - Clean Code : 애자일 소프트웨어 장인 정신 (로버트 마틴.C 저) <br/>
+   - 테스트 주도 개발 (켄트백 저) <br/>
    - Blogging (Posting, SEO, Readability etc) <br/>
    - React Native 
 </details>
