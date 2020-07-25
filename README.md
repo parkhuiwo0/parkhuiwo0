@@ -1,6 +1,6 @@
 ![email](https://img.shields.io/badge/Email-parkhuiwo0@gmail.com-red.svg)
 ![기술블로그](https://img.shields.io/badge/Blog-https://parkhuiwo0.github.io-brightgreen.svg)
-![FaceBook](https://img.shields.io/badge/Facebook-https://fb.com/parkhuiwo0-blue.svg)
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/parkhuiwo0)](https://fb.com/parkhuiwo0)
 
 ### HUIWOO PARK (1998. 09. 26)
 
