@@ -18,6 +18,8 @@
    - Language : Java 8 <br/>
    - Spring Framework (SpringBoot 2.x, Spring Webflux) <br/>
    - Object Relationship Mapping Skills (Spring Data JPA, Hibernate, QueryDSL) <br/>
+   - RDS (MySQL) <br/>
+   - NoSQL (Redis, MongoDB) <br/>
    - Infrastructure (AWS, Networking) <br/>
    - Elastic (ELK Stack) <br/>
 </details>
