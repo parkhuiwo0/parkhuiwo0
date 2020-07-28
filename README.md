@@ -5,7 +5,8 @@
 ## HUIWOO PARK
 
 주로 Java와 Spring Framework를 이용해 애플리케이션을 개발하고, 객체지향 설계에 대한 관심이 많으며 유연한 소프트웨어를 만들기 위해 노력하고 있습니다.
-사용자에게 보다 서비스를 제공하는 것 
+
+현재 대용량 트래픽 처리를 할 수 있는 아키텍쳐 및 애플리케이션 개발에 대해서 공부하고 있습니다.
 
 <details>
  <summary><strong> Seminar Presentations (Click) </strong></summary>
@@ -28,10 +29,10 @@
 
 <details>
  <summary><strong> In Studying (Click) </strong></summary>
-   - Kotlin, Golang <br/>
+   - Kotlin <br/>
    - Microservice Architecture <br/>
    - Messaging Queue (Kafka) <br/>
-   -  <br/>
+   - Non-blocking IO Programming <br/>
 </details>
 
 <details>
