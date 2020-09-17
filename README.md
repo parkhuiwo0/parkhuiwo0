@@ -16,24 +16,15 @@
 </details>
 
 <details>
- <summary><strong> Technology stack (Click) </strong></summary>
+ <summary><strong> Technology stack (Skills) (Click) </strong></summary>
    - Language : Java 8 <br/>
    - Spring Framework (SpringBoot 2.x, Spring Webflux) <br/>
    - Object Relationship Mapping Skills (Spring Data JPA, Hibernate, QueryDSL) <br/>
    - RDS (MySQL) <br/>
-   - NoSQL (Redis, MongoDB) <br/>
-   - Infrastructure (AWS, Networking) <br/>
-   - Elastic (ELK Stack) <br/>
+   - NoSQL (Redis) <br/>
+   - AWS Cloud Engineering (Elastic Container Service(EC2), RDS, CloudWatch, VPC/Subnet, Lambda, CodePipeline ...) <br/>
 </details>
 
-
-<details>
- <summary><strong> In Studying (Click) </strong></summary>
-   - Kotlin <br/>
-   - Microservice Architecture <br/>
-   - Messaging Queue (Kafka) <br/>
-   - Non-blocking IO Programming <br/>
-</details>
 
 <details>
  <summary><strong> Certifications (Click) </strong></summary>
@@ -58,5 +49,5 @@
 
 ### My Careers 🌱
 
-- [(주)헤렌](https://www.herrencorp.com) Backend Developer/DevOps Engineer (2019.08.12 ~ 재직중)
+- [(주)헤렌](https://www.herrencorp.com) Backend Software Engineer (2019.08.12 ~ 재직중)
 
